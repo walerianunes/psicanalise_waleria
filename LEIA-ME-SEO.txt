@@ -1,0 +1,29 @@
+VERSÃO SEO — WALÉRIA NUNES
+
+Envie estes arquivos para a raiz do repositório:
+- index.html
+- publicacoes.html
+- textos.html
+- style.css
+- hopper.jpg
+- robots.txt
+- sitemap.xml
+
+IMPORTANTE:
+Mantenha no GitHub o arquivo googleff5e6cf9c6660d2b.html.
+
+Principais otimizações:
+- título e descrição específicos para cada página;
+- canonical URLs;
+- Open Graph e Twitter cards;
+- dados estruturados Schema.org;
+- endereço profissional estruturado;
+- sitemap.xml;
+- robots.txt;
+- termos locais naturais: psicanalista em Florianópolis, Trindade, atendimento presencial e online.
+
+Depois do upload:
+1. conferir o site;
+2. abrir o Google Search Console;
+3. solicitar indexação da home, publicacoes.html e textos.html;
+4. enviar o sitemap: https://walerianunes.github.io/psicanalise_waleria/sitemap.xml
