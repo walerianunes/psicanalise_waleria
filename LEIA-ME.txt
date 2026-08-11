@@ -1,0 +1,17 @@
+# Site atualizado — Waléria Nunes
+
+Envie para a raiz do repositório:
+- index.html
+- style.css
+- publicacoes.html
+- textos.html
+- hopper.jpg
+
+IMPORTANTE: não apague o arquivo googleff5e6cf9c6660d2b.html já existente no GitHub, pois ele mantém a verificação do Google Search Console.
+
+Alterações desta versão:
+- imagem correta de Edward Hopper (Rooms by the Sea) salva localmente como hopper.jpg;
+- novo texto da seção Sobre;
+- atendimento para adolescentes e adultos;
+- endereço do consultório na R. Des. Vítor Lima, 260, Trindade;
+- Publicações e Textos em páginas separadas.
